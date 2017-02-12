@@ -9,6 +9,10 @@ booklist
 ## to read
 
 ### 技术 & 管理
+
+脆弱的力量  
+软件系统架构:使用视点和视角与利益相关者合作  
+
 Google是如何运作的  
 微管理： http://book.douban.com/subject/25868303/  
 The Hard Thing About Hard Things： http://book.douban.com/subject/25823036/  
@@ -26,6 +30,9 @@ http://tech.qq.com/a/20141018/007802.htm
 http://www.jianshu.com/  
 无须等待:YC合伙人的创业课  http://www.amazon.cn/dp/B00QUQ2G96  
 金字塔原理  
+六顶思考帽
+高难度谈话
+谈判力
 
 ### 自然科学
     
@@ -133,6 +140,10 @@ http://book.douban.com/subject/10521979/
 - 臣服法则：将每个挑战都视为灵性成长和意识扩展的方式与机会  
 - 期望法则：我们所假定的，期望的，或相信的，创造并影响我们  
 - 信心法则：信心是我们和宇宙智慧的直接联结，我们知道的，比听到或读到或研究的多  
+
+**叫魂**  
+http://book.douban.com/subject/10471333/  
+这本书颠覆了我对历史类书籍的看法，也接触到微观史学这门科学。类似的著作还有：王氏之死 http://book.douban.com/subject/6750187/  
 
 **理解专业程序员**  
 http://book.douban.com/subject/1866824/  

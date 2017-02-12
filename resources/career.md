@@ -1,5 +1,26 @@
-职业规划  
+职业、团队、个人成长 
 ========
+
+**贴吧招聘-很有创意**  
+http://mp.weixin.qq.com/s?__biz=MzA5NzczNDUyOQ==&mid=212673482&idx=1&sn=ff3c49f84130913f9eb1148b89ba90b5&scene=2  
+
+**好的前端主管是如何带队的？**  
+http://www.zhihu.com/question/30093712  
+这个问题在职业生涯中似乎是绕不过去的，大家可以看看大神们的经验，对未来肯定有帮助。
+
+**老调重弹：年龄大了，码农何去何从**  
+http://ourcoders.com/thread/show/218/  
+
+**写给初学前端工程师的一封信**  
+http://www.w3ctech.com/topic/983  
+克军结合自己的经验给前端新手的建议，其实对非新手也是很有启发的。个人喜欢这几点：
+- 技术会变，不变的是那些特质和观念
+- 不要抱怨自己所在的团队不够好，用更开放的心态分享和交流，慢慢的一个好的氛围便会形成
+- 开发思想不存在过时的问题
+
+**What I'd tell myself about startups if I could go back 5 years.**  
+http://www.talkingquickly.co.uk/2015/04/what-id-tell-myself-about-startups/  
+This is, in no particular order, what I'd tell myself about startups if I could go back in time to when I first got involved. Which is probably the same as what I've learned.    
 
 **30岁到35岁：为你的生命多积累一些厚度**  
 http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html  
@@ -12,6 +33,10 @@ http://blog.sina.com.cn/s/blog_48d16b2a01011omu.html
 辞职创业如何毁了我的生活 http://www.36kr.com/p/215444.html  
 不是所有人都适合创业 http://www.36kr.com/p/216914.html  
 文章的很多思考和建议很不错的。创业与否取决于是否能认清自我。每个人在这个世界上都有属于自己的位置，做真实的自己，而不在意是否创意。
+不要脑子一热就去创业 http://mp.weixin.qq.com/s?__biz=MjM5OTAzMjc4MA==&mid=208079343&idx=1&sn=7bb81665646da9a22bbf41790d4261fe#rd  
+
+**Three hundred programming interviews in thirty days**  
+http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days  
 
 **那一年，我24岁。**  
 http://weibo.com/1687445053/BybbX5U46  
@@ -31,6 +56,10 @@ http://www.kuqin.com/shuoit/20141128/343530.html
 http://blog.ppcode.com/article/Work/Programmer_Interview_About_Career_Planning.htm  
 http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=203288094&idx=1&sn=783d637fa0db34c28bc4c52e7f83ce2a#rd  
 
+**更快学会任何东西的终极指南**  
+http://www.woshipm.com/pmd/164968.html  
+在当今我们生活的这个时代，如果你想过上一段非凡的人生，就得掌握快速学习这项本领。
+
 **前端的一种思路**  
 JS 作为一门应用型技术是需要一种标准化的快速构建的方式来降低门槛及提高工作效率的。所以应该是 5% 的人创造 JS（工具），10% 的人创造各种框架（工具套件）让 85% 的人来创造产品（打造产品）。人们的职业规划和企业的职业定位也可以参考这个，提提高工业生产效率，降低成本。行业里对这个的关注显然还不够，不过总的趋势还是在向这个方向发展的。
 
@@ -45,3 +74,15 @@ http://mp.weixin.qq.com/s?__biz=MjM5OTM5OTAyMQ==&mid=205956101&idx=1&sn=c9b8a4b9
 **Why Learning to Code is So Damn Hard**  
 http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard  
 What every beginner absolutely needs to know about the journey ahead. Quincy Larson was just a "guy in a suit in an office" and decided he wanted to learn how to code. So he asked around. He started by picking up a bit of Ruby then found himself skimming through other languages like Scala, Clojure and Go. He learned Emacs then Vim and even the Dvorak keyboard layout. He picked up Linux, dabbled in Lisp and coded in Python while living on the command line for more than half a year.
+
+**迄今见过的最好的职业规划的文章！**  
+http://weibo.com/1687445053/CmjaTBYdg  
+
+**如何提升你的能力？**  
+http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=205972736&idx=1&sn=adbaeb5471041448b413ff556dee7e25#rd  
+
+##  求职美企  
+
+http://blog.jobbole.com/32240/  
+http://blog.jobbole.com/31804/  
+http://blog.jobbole.com/25086/  

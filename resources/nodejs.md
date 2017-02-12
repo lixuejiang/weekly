@@ -40,10 +40,13 @@ FRP(Functional Reactive Programming)
 
 python 中有 asyncio 
 
+异步编程之co——源码分析 http://www.html-js.com/article/3016  
+
 ## lib
 
 [zone](https://github.com/strongloop/zone) Flow control and error handling for Node.js  
 [bluebird](https://github.com/petkaantonov/bluebird)  
+http://highlandjs.org/  
 
 ## Server
 
@@ -63,6 +66,16 @@ python 中有 asyncio
 - [为什么 Node.js 这么火，而同样异步模式 Python 框架 Twisted 却十几年一直不温不火？](http://www.zhihu.com/question/23854296/answer/27877645)
 - [如何看待 TJ 宣布退出 Node.js 开发，转向 Go](http://www.zhihu.com/question/24373004)
 - [如何评价淘宝 UED 的 Midway Framework 前后端分离](http://www.zhihu.com/question/23512853)  
+- https://blog.indutny.com/c.cpp-in-node  
+- https://devcenter.heroku.com/articles/node-best-practices  
+
+**关于 node 在生产环境部署的一些讨论**  
+http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/  
+https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/  
+https://medium.com/@bestander_nz/my-node-modules-are-in-git-again-4fb18f5671a#.z1l70778d  
+https://strongloop.com/strongblog/node-js-deploy-production-best-practice/  
+建议在发布是用 shrinkwrap 锁定依赖版本，相关讨论  
+https://addyosmani.com/blog/checking-in-front-end-dependencies/#more-5510  
 
 ## 其它
 
